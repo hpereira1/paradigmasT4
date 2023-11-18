@@ -1,4 +1,4 @@
-% resulucao desse problema https://rachacuca.com.br/logica/problemas/caminhoes-no-porto/
+%resulucao desse problema https://rachacuca.com.br/logica/problemas/caminhoes-no-porto/
 
 cor(amarelo).
 cor(azul).
