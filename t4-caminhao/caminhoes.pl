@@ -1,5 +1,7 @@
 %resulucao desse problema https://rachacuca.com.br/logica/problemas/caminhoes-no-porto/
 
+%para rodar o programa, "swipl -o caminhoes caminhoes.pl" -> "solucao(ListaSolucao)."
+
 cor(amarelo).
 cor(azul).
 cor(branco).
